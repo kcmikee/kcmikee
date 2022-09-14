@@ -1,7 +1,9 @@
 ### Hi there, 👋
-I am Esenwa MICHAEL.
+### I am Esenwa MICHAEL.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcmikee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcmikee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **kcmikee/kcmikee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +20,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working with React Js, React Native and it's awesome
 - 🤔 I'm looking to collaborate on React Based Projects.
+- 📫 How to reach me: michael.esenwa@gmail.com
