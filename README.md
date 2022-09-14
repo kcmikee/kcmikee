@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, Michael Esenwa 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcmikee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kcmikee/kcmikee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
