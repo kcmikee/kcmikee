@@ -1,9 +1,11 @@
 ### Hi there 👋,
-
+# I am Michael Esenwa
+<!--
 <img 
 align="center"
   src="https://github.com/kcmikee/kcmikee/blob/main/Screenshot%202022-09-14%20at%2012.14.24%20PM.png"
   />
+  -->
 - 🔭 I’m currently working with React Js, React Native and it's awesome
 - 🤔 I'm looking to collaborate on React Based Projects.
   
