@@ -33,8 +33,7 @@
 <a href="https://www.linkedin.com/in/kachukwu-michael-esenwa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
  <a href="https://github.com/kcmikee" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="cesar-useche">
 </a>
-<a href="https://esenwa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="cesar-useche">
-</p>
+
 
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcmikee&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
