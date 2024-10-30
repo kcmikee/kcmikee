@@ -27,11 +27,12 @@
 
 <h4>📫 How to reach me:</h4>
 
-- michael.esenwa@yahoo.com
-
 <p>
  <a href="https://wa.me/2347081293274?text=Hello Michael" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+ <a href="mailto:michael.esenwa@yahoo.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/kcmikee" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
