@@ -1,6 +1,6 @@
-<h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Kachukwu Michael Esenwa <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a></h1>
-<h4> Frontend/smart contract developer </h4>
-<h4>💻 I code with:</h4>
+<h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Michael Esenwa <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a></h1>
+<h4> A Blockchain Developer focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript). Hit me up for a gig </h4>
+<h4>💻 Previously a Software Engineer building solutions with (PHP/Laravel, React, Bootstrap, Tailwind CSS, MySQL, ).</h4>
 <p>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
  <img src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -30,8 +30,14 @@
 - michael.esenwa@yahoo.com
 
 <p>
+ <a href="https://wa.me/2347081293274?text=Hello Michael" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/kcmikee" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kachukwu-michael-esenwa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
- <a href="https://github.com/kcmikee" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="cesar-useche">
+
 </a>
 
 
