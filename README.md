@@ -1,4 +1,4 @@
-<h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Michael Esenwa <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a></h1>
+<h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Michael <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a></h1>
 <h4> A Blockchain Developer focused on (Writing Smart Contracts, Solidity, Cairo, Rust, React.js, TypeScript). Hit me up for a gig </h4>
 <h4>💻 Previously a Software Engineer building solutions with (PHP/Laravel, React, Bootstrap, Tailwind CSS, MySQL, ).</h4>
 <p>
