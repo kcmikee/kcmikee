@@ -1,4 +1,4 @@
-# Hey, I'm Kachukwu 👋
+# Hey, I'm Michael 👋
 
 **Software & Blockchain Engineer**  
 I build smart contracts and full-stack applications with **React, React Native, TypeScript, Solidity, Cairo, Rust, Go, and Node.js**.
